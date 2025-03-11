@@ -592,7 +592,7 @@
           <li class="nav-item"><a class="nav-link" href="#services">Serviços</a></li>
           <li class="nav-item"><a class="nav-link" href="#products">Produtos</a></li>
           <li class="nav-item"><a class="nav-link" href="#process">Como Trabalhamos</a></li>
-          <li class="nav-item"><a class="nav-link" href="#testimonials">Depoimentos</a></li>
+
           <li class="nav-item"><a class="nav-link" href="#faq">FAQ</a></li>
           <li class="nav-item"><a class="nav-link" href="#contact">Contato</a></li>
         </ul>
@@ -924,7 +924,7 @@
           <div class="process-step">
             <div class="process-number">4</div>
             <h5>Entrega</h5>
-            <p class="process-text">Enviamos seu pedido com agilidade e segurança para todo o Brasil.</p>
+            <p class="process-text">Atendemos todo o Brasil através da transportadora de sua preferência local.</p>
           </div>
         </div>
       </div>
@@ -934,56 +934,7 @@
     </div>
   </section>
 
-  <!-- Testimonials Section -->
-  <section id="testimonials" class="section-padding styled-section">
-    <div class="container section-content">
-      <div class="text-center mb-5" data-aos="fade-up">
-        <h2 class="text-center">O Que Dizem Nossos Clientes</h2>
-        <p class="lead">Confira a experiência de quem já trabalhou conosco</p>
-      </div>
-      <div class="row g-4">
-        <div class="col-lg-4" data-aos="fade-up">
-          <div class="testimonial-card">
-            <i class="bi bi-quote testimonial-quote"></i>
-            <p class="testimonial-text">A Flexovel superou todas as nossas expectativas. As etiquetas são de excelente qualidade e o atendimento foi impecável do início ao fim.</p>
-            <div class="testimonial-author">
-              <img src="/api/placeholder/60/60" alt="Cliente">
-              <div class="testimonial-info">
-                <h5>João Silva</h5>
-                <small>Indústria Alimentícia</small>
-              </div>
-            </div>
-          </div>
-        </div>
-        <div class="col-lg-4" data-aos="fade-up" data-aos-delay="100">
-          <div class="testimonial-card">
-            <i class="bi bi-quote testimonial-quote"></i>
-            <p class="testimonial-text">Trabalhamos com a Flexovel há mais de 2 anos e não temos do que reclamar. Prazos sempre cumpridos e qualidade consistente em todos os pedidos.</p>
-            <div class="testimonial-author">
-              <img src="/api/placeholder/60/60" alt="Cliente">
-              <div class="testimonial-info">
-                <h5>Maria Santos</h5>
-                <small>Empresa de Cosméticos</small>
-              </div>
-            </div>
-          </div>
-        </div>
-        <div class="col-lg-4" data-aos="fade-up" data-aos-delay="200">
-          <div class="testimonial-card">
-            <i class="bi bi-quote testimonial-quote"></i>
-            <p class="testimonial-text">A equipe de design nos ajudou a desenvolver uma identidade visual para nossos produtos que aumentou significativamente nossas vendas.</p>
-            <div class="testimonial-author">
-              <img src="/api/placeholder/60/60" alt="Cliente">
-              <div class="testimonial-info">
-                <h5>Carlos Oliveira</h5>
-                <small>Vinícola</small>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
+
 
   <!-- FAQ Section -->
   <section id="faq" class="section-padding styled-section">
@@ -1027,7 +978,7 @@
               </h2>
               <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionFAQ">
                 <div class="accordion-body">
-                  Sim, atendemos todo o território nacional. Realizamos envios por transportadoras e Correios, garantindo que seu pedido chegue em perfeitas condições, independentemente da localização.
+                  Sim, atendemos todo o território nacional. Trabalhamos com a transportadora de sua preferência local para garantir que seu pedido chegue com segurança e no prazo.
                 </div>
               </div>
             </div>
@@ -1049,23 +1000,7 @@
     </div>
   </section>
 
-  <!-- Newsletter Section -->
-  <section class="section-padding bg-light">
-    <div class="container">
-      <div class="row justify-content-center">
-        <div class="col-lg-8 text-center" data-aos="fade-up">
-          <h3 class="mb-4">Assine Nossa Newsletter</h3>
-          <p class="mb-4">Fique por dentro das novidades, promoções e dicas do setor de etiquetas e rótulos.</p>
-          <form id="newsletterForm" class="newsletter-form">
-            <div class="input-group">
-              <input type="email" class="form-control" placeholder="Seu melhor e-mail" required>
-              <button type="submit" class="btn btn-primary">Inscrever-se</button>
-            </div>
-          </form>
-        </div>
-      </div>
-    </div>
-  </section>
+
 
   <!-- Contact Section -->
   <section id="contact" class="section-padding">
@@ -1143,8 +1078,7 @@
           <h5 class="mb-3">Horário de Atendimento</h5>
           <ul class="list-unstyled">
             <li class="mb-2">Segunda a Sexta: 8h às 18h</li>
-            <li class="mb-2">Sábado: 8h às 12h</li>
-            <li class="mb-2">Domingo: Fechado</li>
+            <li class="mb-2">Sábados e Domingos: Fechado</li>
           </ul>
         </div>
       </div>
